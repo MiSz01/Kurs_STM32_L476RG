@@ -168,7 +168,7 @@ Typowy projekt zawiera:
 1. Pobierz repozytorium:
 
 ```bash
-git clone [<adres-repozytorium>](https://github.com/MiSz01/Kurs_STM32_L476RG)
+git clone https://github.com/MiSz01/Kurs_STM32_L476RG
 ```
 
 2. Otwórz **STM32CubeIDE**.
